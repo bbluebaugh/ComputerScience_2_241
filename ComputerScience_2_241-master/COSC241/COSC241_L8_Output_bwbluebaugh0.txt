@@ -1,0 +1,8 @@
+rac e car is a palindrome.
+forever is not a palindrome.
+aesea is a palindrome.
+1221 is a palindrome.
+rac ar is not a palindrome.
+race is not a palindrome.
+cant tnac is a palindrome.
+racecar is a palindrome.
